@@ -6,3 +6,5 @@ vi /etc/fstab
 在fstab文件中添加：
 /root/swap/swapfile swap swap defaults 0 0
 wow
+
+呜呜呜呜呜呜呜呜无无无无无无无无无无无无无无无无无无无无无无
