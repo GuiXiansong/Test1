@@ -1,0 +1,7 @@
+mkdir swap
+cd swap/
+mkswap /root/swap/swapfile
+swapon /root/swap/swapfile
+vi /etc/fstab
+在fstab文件中添加：
+/root/swap/swapfile swap swap defaults 0 0
