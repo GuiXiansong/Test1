@@ -1,0 +1,26 @@
+框架：
+spingboot
+springcloud
+
+数据库：
+redis（作为缓存系统使用）
+mysql、Oracle（存储过程、索引、触发器）
+
+
+前后端数据传输：
+restful
+
+
+
+必会功能点：
+文夹上传/下载
+springcloud五大组件
+doubx，zookeper。
+
+wowo
+aoao
+<<<<<<< HEAD
+吴澳
+=======
+皮皮桂
+>>>>>>> bb55027f0ccfa8e4bc6f6e71be5c8ad5ec50d31e
